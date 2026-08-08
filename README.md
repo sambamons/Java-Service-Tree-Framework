@@ -1,5 +1,6 @@
 # MultiAgent — Claude · Codex · Gemini Orchestration Starter
 
+- 각 새로운 폴더에 clone할때마다 새로운 폴더에 맞도록 환경 변경해줘 라는 1회성 요청 필요
 Claude Code를 오케스트레이터로 두고 Claude·Codex·Gemini를 워커로 호출하는 **파일 기반 멀티에이전트 시스템**.
 
 ## 핵심 아이디어
